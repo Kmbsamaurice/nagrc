@@ -18,7 +18,7 @@ body {margin:0;font-family:Arial}
   text-transform: uppercase;
   padding: 14px 16px;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 15px;
 }
 
 .active {
@@ -37,7 +37,7 @@ body {margin:0;font-family:Arial}
 }
 
 .dropdown .dropbtn {
-    font-size: 17px;    
+    font-size: 15px;    
     border: none;
     text-transform: uppercase;
     outline: none;
@@ -50,6 +50,7 @@ body {margin:0;font-family:Arial}
 
 .dropdown-content {
     display: none;
+     font-size: 15px; 
     position: absolute;
     background-color: #f9f9f9;
     min-width: 160px;
@@ -60,6 +61,7 @@ body {margin:0;font-family:Arial}
 .dropdown-content a {
     float: none;
     color: black;
+     font-size: 15px; 
     padding: 12px 16px;
     text-decoration: none;
     display: block;
@@ -120,8 +122,8 @@ body {margin:0;font-family:Arial}
     </button>
     <div class="dropdown-content">
       <a href="about.php">History</a>
-      <a href="#">Vision & Mission</a>
-      <a href="#">Board of Directors</a>
+      <a href="Mission.php">Vision & Mission</a>
+      <a href="board.php">Board of Directors</a>
       <a href="#">Strategic Plan</a>
       <a href="#">Programs</a>
       <a href="#">Staff Profiling</a>
@@ -132,7 +134,7 @@ body {margin:0;font-family:Arial}
     <button class="dropbtn">Services
     </button>
     <div class="dropdown-content">
-      <a href="#">Livestock</a>
+      <a href="livestock.php">Livestock</a>
       <a href="#">Aquaculture</a>
       <a href="#">M.O.E.T</a>
       <a href="#">ARTs</a>
@@ -147,7 +149,7 @@ body {margin:0;font-family:Arial}
     <button class="dropbtn">Center Farms
     </button>
     <div class="dropdown-content">
-      <a href="#">Bull stud Farm</a>
+      <a href="bulls.php">Bull stud Farm</a>
       <a href="#">Maruzi Ranch</a>
       <a href="#">Sanga field station</a>
       <a href="#">Njeru</a>
@@ -163,7 +165,7 @@ body {margin:0;font-family:Arial}
     <button class="dropbtn">Activities
     </button>
     <div class="dropdown-content">
-      <a href="#">Farmers Outreach</a>
+      <a href="outreach.php">Farmers Outreach</a>
       <a href="#">Ambulatory</a>
       <a href="#">Projects/Collaborations</a>
     </div>

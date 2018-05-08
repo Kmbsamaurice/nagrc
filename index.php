@@ -244,7 +244,13 @@
 
         <!--/breeds-->
 
-        
+      
+ <!--footer-->
+        <?php
+            include("partners.php");
+
+        ?>
+ <!--/footer-->  
         
    
         

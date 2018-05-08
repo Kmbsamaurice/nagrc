@@ -42,14 +42,13 @@
 	</div>
 	
 <section class="header-inner">
-
-    <p style="padding-top: 80px;">Frequently Asked Questions</p>
+    <p style="padding-top: 80px;">About us</p>
 	
 </section>
 		
 
 
-			<!--content-->
+			<!--about-->
 	<section id="section-content">
 		<div class="container">
 			<div class="content">
@@ -63,20 +62,18 @@
 					<div class="row-slider">
 						<div class="col-lg-6 mar-bot30">
 							<div class="company mar-left10">
-								<h4 style="color: rgb(56, 18, 56);">Qn. Where do you get the semen from?</h4>
-								<p>From approved bulls which are well testeed and can do well in any environment</p>
+                                <h4 style="color: rgb(56, 18, 56);">Vision</h4>
+                                <p>A leader in profitable production and efficient delivery of animal genetic resources and services in Eastern Africa.</p>
                                 
                                 
-                                <h4 style="color: rgb(56, 18, 56);">Qn. How can one tell that he has a good or bad breed?</h4>
-                                <p>It depends on the ability his or her animal to withstand harsh conditions, give much milk with high butter fat content, big healthy animal and with the ability to concieve and produce in time without problems or difficulty.</p>
+                                <h4 style="color: rgb(56, 18, 56);">Mission</h4>
+                                <p>To establish a comprehensive and sustainable National Animal Breeding Programme which meets the commercial and developmental interests of the actors along the livestock sub-sector value chains.</p>
                                 
-                                <h4 style="color: rgb(56, 18, 56);">Qn. If one has a local breed can he or she cross breed it with any of the exotic available breeds?</h4>
-                                <p>It is possible so long as it has the above salient feature identified in question two above.</p>
+                                <h4 style="color: rgb(56, 18, 56);">Goal</h4>
+                                <p>To contribute to the transformation of the agricultural sector by enhancing sustainable livestock productivity through conservation and improvement of animal genetic resource.</p>
                                 
-                               <h4 style="color: rgb(56, 18, 56);">Qn. Can a cow produce more than one calf if one used improved genetics?</h4>
-                                <p>It is much possible if one has adapted Multi Ovulation and Embryo Transfer method, however it is a chance if one who does not use it to get two calves at once.</p>
-                                
-                                
+                                 <h4 style="color: rgb(56, 18, 56);">Core Values</h4>
+                                <p><b>Excellence:</b> All functions of NAGRC&DB are oriented towards production of the best quality products and delivery of fast and efficient services as demanded by the farmers/customers. Excellence also implies the promotion of a culture that believes that only the best is good enough in all areas that govern the organizational outputs.<br>
                                 
 							</div>
 						
@@ -84,14 +81,13 @@
 					
 						<div class="col-lg-6 ">
 							<div class="company mar-left10">
-								<h4 style="color: rgb(56, 18, 56);">Qn. Is Artificial Insemination also done in goats, sheep, pigs, or even in dogs?</h4>
-								<p>By 2007 it will be done in goats because currently it is still under study. In pigs, sheep, and dogs it is not possible as per now but in outside countries it is done.</p>
-                                
-                                <h4 style="color: rgb(56, 18, 56);">Qn. Can most of the breeds available be sustainable in Uganda environment given flucuating environment?</h4>
-                                <p>Yes they can, so long as the precautions necessary for a healthy animal are prevailing.</p>
-                                
-                                <h4 style="color: rgb(56, 18, 56);">Qn. Can every one practice Artificial Insemination or other Assisted Reproductive Techniques in Uganda?</h4>
-                                <p>No, except when trained and licensed by NAGRC&DB</p>
+								
+                               
+                                <b>Professionalism:</b> NAGRC&DB staff is committed to have the application of specialized knowledge and skills in accordance to the ethical requirements and established standards that govern each profession.<br>
+                                Sustainable development & social responsibility: NAGRC&DB recognizes the importance of protecting the environment for sustainable production. The Centre addresses environmental issues responsibly. The Centre to the best of its ability, embraces appropriate innovations and the latest technological developments to benefit the farming community and other stakeholders in the country.<br>
+                                <b>Public trust and honesty:</b> NAGRC&DB has instituted policies, rules, and procedures to promote public trust through sound financial management, accurate reporting, and excellent customer service at all times.<br>
+                                Client service and satisfaction: Client needs receive timely, responsive, proactive tailor made solutions to meet their needs.<br>
+                                <b>Team work:</b> For optimum productivity and output, NAGRC&DB cherishes and upholds the spirit of team work at all levels between staff, management, the Board and other collaborating institutions.</p>
 							</div>
 						</div>
 					
@@ -102,10 +98,9 @@
 			
 		</div>
 	</section>
-	<!--/content-->
-
-	
-
+	<!--/about-->
+        
+        
 
         <?php
             include("footer.php");
@@ -117,7 +112,6 @@
 	<script src="js/jquery.js"></script>
 	<script src="js/jquery.easing.1.3.js"></script>
     <script src="js/bootstrap.min.js"></script>
-	<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCr0cfxPdsnf1vRIy6ykYs2k0JU4s_SnkU &callback=initMap"></script>
 	<script src="js/jquery.isotope.min.js"></script>
 	<script src="js/jquery.nicescroll.min.js"></script>
 	<script src="js/fancybox/jquery.fancybox.pack.js"></script>

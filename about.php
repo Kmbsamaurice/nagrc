@@ -28,39 +28,20 @@
 	
 	<img width="100%"src="img/nagrc_header.png" alt="">
 	<div class="header">
-		<section id="header" class="appear">
-		
-		<div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:100px; height:100px; background-color:rgba(56,18,56,1);" data-300="line-height:60px; height:60px; background-color:rgba(56,18,56,1);">
-			
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-						<span class="fa fa-bars color-white"></span>
-					</button>
-					<h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;">NAGRC & DB
-					</a></h1>
-				</div>
-				<div class="navbar-collapse collapse">
-					<ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
-						<li><a href="index.php">Home</a></li>
-						<li class="active"><a href="about.php">About Us</a></li>
-						<li><a href="programs.php">Programs</a></li>
-						<li><a href="activities.php">Activities</a></li>
-						<li><a href="services.php">Services</a></li>
-						<li><a href="farms.php">Center farms</a></li>
-						<li><a href="research.php">Research</a></li>
-						<li><a href="faq.php">Faqs</a></li>
-						<li><a href="contact.php">Contact us</a></li>
-					</ul>
-				</div><!--/.navbar-collapse -->
-			</div>
-		
+
+	<section id="header" class="appear">
+
+
+		   <?php
+            include("head.php");
+
+        ?>
+	
 		
 	</section>
 	</div>
 	
 <section class="header-inner">
-
-    <div class="bg"></div>
     <p style="padding-top: 80px;">About us</p>
 	
 </section>

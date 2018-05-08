@@ -28,44 +28,23 @@
 	
 	<img width="100%"src="img/nagrc_header.png" alt="">
 	<div class="header">
-		<section id="header" class="appear">
-		
-		<div class="navbar navbar-fixed-top" role="navigation" data-0="line-height:100px; height:100px; background-color:rgba(56,18,56,1);" data-300="line-height:60px; height:60px; background-color:rgba(56,18,56,1);">
-			
-				<div class="navbar-header">
-					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-						<span class="fa fa-bars color-white"></span>
-					</button>
-					<h1><a class="navbar-brand" href="index.html" data-0="line-height:90px;" data-300="line-height:50px;">NAGRC & DB
-					</a></h1>
-				</div>
-				<div class="navbar-collapse collapse">
-					<ul class="nav navbar-nav" data-0="margin-top:20px;" data-300="margin-top:5px;">
-						<li><a href="index.php">Home</a></li>
-						<li><a href="about.php">About Us</a></li>
-						<li><a href="programs.php">Programs</a></li>
-						<li><a href="activities.php">Activities</a></li>
-						<li class="active"><a href="services.php">Services</a></li>
-						<li><a href="farms.php">Center farms</a></li>
-						<li><a href="research.php">Research</a></li>
-						<li><a href="faq.php">Faqs</a></li>
-						<li><a href="contact.php">Contact us</a></li>
-					</ul>
-				</div><!--/.navbar-collapse -->
-			</div>
-		
+
+	<section id="header" class="appear">
+
+
+		   <?php
+            include("head.php");
+
+        ?>
+	
 		
 	</section>
 	</div>
 	
 <section class="header-inner">
-    
-    <div class="bg"></div>
-    <p style="padding-top: 80px;">Our Services</p>
+    <p style="padding-top: 80px;">Livestock</p>
 	
 </section>
-		
-
 
 			<!--content-->
 	<section id="section-content">
@@ -102,8 +81,7 @@
 					
 						<div class="col-lg-6 ">
 							<div class="company mar-left10">
-								<h4 style="color: rgb(56, 18, 56);">Live Stock</h4>
-                                <h4>Live Stock Experimentation Station(LES)</h4>
+                                <h4>Cattle</h4>
 								<p>LES farm is located at the former Veterinary Training Complex about 5km from Kitooro, Entebbe Municipality in Wakiso District.</p>
                                 
                                 <p>The farm was established in 1950’s as a Government farm for acclimatization of imported exotic breeds of livestock for introduction into the country’s different agro-ecological and production zones with the following objectives:-</p>
@@ -195,7 +173,7 @@
 	 <section class="Sub-header">
     
     <div class="bg"></div>
-    <p style="padding-top: 80px;">M.O.E.T</p>
+    <p style="padding-top: 80px;">Piggery</p>
 	
 </section>
         
@@ -232,11 +210,9 @@
 					
 						<div class="col-lg-6 ">
 							<div class="company mar-left10">
-								<h4 style="color: rgb(56, 18, 56);">M.O.E.T</h4>
-								<p>Embryo Transfer (ET) is an effective method of increasing the reproduction rate of groups of animals. This is an introduction to the Multiple Ovulation and Embryo Transfer (MOET) procedure.</p>
-                                
-                                <p>
-                                All female animals are capable of producing far more eggs than they ever need over their lifetime. ET uses Follicle Stimulating Hormones (FSH) to cause the ovaries to release more than one egg in a cycle. Multiple eggs can then be fertilised inside the cow and collected non-surgically, usually 7 days after mating (or artificial insemination). These embryos can be transferred into surrogate mothers (recipients) who are at the same stage of their cycle but have not been mated. Many of these embryos are accepted by the recipients and a normal pregnancy occurs. Alternatively, embryos can be frozen for sale or later transfer.</p>
+								<h4 style="color: rgb(56, 18, 56);">Piggery</h4>
+								<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui. Fusce dapibus, tellus ac cursus etiam porta sem malesuada magna mollis euismod. commodo, Faccibus mollis interdum. Morbi leo risus, porta ac, vestibulum at eros.
+								  Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui. Fusce dapibus, tellus ac.</p>
 							</div>
 						
 						</div>
@@ -253,7 +229,7 @@
  <section class="Sub-header">
     
     <div class="bg"></div>
-    <p style="padding-top: 80px;">arts</p>
+    <p style="padding-top: 80px;">Goat Farming</p>
 	
 </section>
 
@@ -271,10 +247,9 @@
 					<div class="row-slider">
 						<div class="col-lg-6 ">
 							<div class="company mar-left10">
-								<h4 style="color: rgb(56, 18, 56);">Assisted Reproductive Technologies (ARTs)</h4>
-								<p>This is the technology used to achieve pregnancy in procedures such as fertility medication, in vitro fertilization and surrogacy.</p>
-                                
-                                <p>It is a reproductive technology used primarily for infertility treatments, and is also known as fertility treatment. It mainly belongs to the field of reproductive endocrinology and infertility, and may also include intracytoplasmic sperm injection (ICSI) and cryopreservation. Some forms of ART are also used with regards for genetic reasons (preimplantation genetic diagnosis)</p>
+								<h4 style="color: rgb(56, 18, 56);">Sheep Farming</h4>
+								<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui. Fusce dapibus, tellus ac cursus etiam porta sem malesuada magna mollis euismod. commodo, Faccibus mollis interdum. Morbi leo risus, porta ac, vestibulum at eros.
+								  Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui. Fusce dapibus, tellus ac.</p>
 							</div>
 						
 						</div>
@@ -315,7 +290,7 @@
  <section class="Sub-header">
     
     <div class="bg"></div>
-    <p style="padding-top: 80px;">Data Bank</p>
+    <p style="padding-top: 80px;">Sheep Farming</p>
 	
 </section>
 
@@ -355,7 +330,7 @@
 					
 						<div class="col-lg-6 ">
 							<div class="company mar-left10">
-								<h4 style="color: rgb(56, 18, 56);">Data Bank</h4>
+								<h4 style="color: rgb(56, 18, 56);">Sheep farming</h4>
 								<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui. Fusce dapibus, tellus ac cursus etiam porta sem malesuada magna mollis euismod. commodo, Faccibus mollis interdum. Morbi leo risus, porta ac, vestibulum at eros.
 								  Nullam id dolor id nibh ultricies vehicula ut id elit. Donec sed odio dui. Fusce dapibus, tellus ac.</p>
 							</div>
@@ -371,69 +346,14 @@
 	<!--/content-->
         
 
+ <!--partners-->
+        <?php
+            include("partners.php");
 
- <section class="Sub-header">
-    
-    <div class="bg"></div>
-    <p style="padding-top: 80px;">Artificial Insemination</p>
-	
-</section>
-
-        			<!--content-->
-	<section id="section-content">
-		<div class="container">
-			<div class="content">
-				<div class="row mar-bot40">
-					<div class="col-md-offset-3 col-md-6">
-					
-					</div>
-				</div>
-				<div class="row">
-			
-					<div class="row-slider">
-						
-						<div class="col-lg-6 ">
-							<div class="company mar-left10">
-								<h4 style="color: rgb(56, 18, 56);">Artificial Insemination</h4>
-								<p>This is a biotechnology whereby semen is introduced into the reproductive tract of a female by artificial means other than by natural mating. Semen (contains spermatozoa) from PROVEN BULLS is collected, processed and finally packed into straws (0.25 or 0.5mls). 9 to 30 million spermatozoa are packed into each straw. It is from the straw that semen is introduced into the female animal by AI technician.200 straws or more can be got from one ejaculate of a bull. This means that one ejaculate of a bull can be used to serve 200 animals or more other than one female animal in the natural way.</p>
-                                
-                                <p>Prior to carrying out Artificial insemination as a way of genetic material production involves care of selected breeding bulls to ensure healthy bulls and good quality semen.</p>
-							</div>
-                            
-
+        ?>
+ <!--/partners-->  
         
-					
-						</div>
-                        
-                        <div class="col-lg-6 mar-bot30">
-							<div class="responsive-slider" data-spy="responsive-slider" data-autoplay="true">
-								<div class="slides" data-group="slides">
-									<ul>
-  	    		
-										<div class="slide-body" data-group="slide">
-											<li><img alt="" class="img-responsive" src="img/it1.png" width="100%" height="350"/></li>
-											<li><img alt="" class="img-responsive" src="img/it2.png" width="100%" height="350"/></li>
-											<li><img alt="" class="img-responsive" src="img/it3.png" width="100%" height="350"/></li>
-							
-										</div>
-									</ul>
-										<a class="slider-control left" href="#" data-jump="prev"><i class="fa fa-angle-left fa-2x"></i></a>
-										<a class="slider-control right" href="#" data-jump="next"><i class="fa fa-angle-right fa-2x"></i></a>
-								
-								</div>
-							</div>
-						</div>
-					
-					
-					</div>	
-				</div>
-					
-			</div>
-			
-		</div>
-	</section>
-	<!--/content-->
-        
+   
         
 
         <?php
